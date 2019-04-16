@@ -1,0 +1,184 @@
+2/27/19
+captains log~~
+
+oh yeah this works lol
+"this page has recieved too many requests" lol excuse me for working
+yea i just got that too
+thats jusdfksjsjdkfdsjg.fsdnj,gh,wsdhmfb,msndbf
+oh i opened it in another window and its fine lol
+did it show the folder in github
+honestly im still trying to figure out how to export it lol
+theres an export button then there's "user/repo" and im filling in my name and 
+the branch
+its just the share 
+im pretty sure its just the link 
+right lol
+its not working i think im doing something wrong
+did you copy it
+yeah
+it worked for me
+oh it says my repo has to have at least one file in it already lol
+in the tools you can export to github
+right
+ahhhhhh there we go lol
+nice
+lol are we never deleting the text?
+idk was just gonna log it line 1
+right lol its like a diary
+hmmm
+welp we can start making our games not
+ignore that typo please i hope you didnt see it lol
+you probably didnt and i brought light to it whoops
+oops lol
+wow sarts welp thats a new one
+oops i sarted exqueeze me
+i mean thats always fun smooch smooch
+welp time to flee~
+lol nyoooom
+I MU§T FLEE
+wow special characters
+wish i were that cool
+yes yes special charz
+no you dont
+its too powerful for mortal mens' brains
+it is destroying my body
+i must....
+i must.......
+flee
+amazing
+indeed
+alright are we gonna code some more or no lol
+i dont know il prob play ing p5 trying to get stuff to work
+like games
+stuff like what?
+make sure instead of defining variable like:
+  let x = 0;
+say:
+  this.x = 0;
+since the game is an object the variables need to be properties, it might be a little funky using p5 and not the engine we made
+im not to worried about that button stuff its the getting it to work right part if it works in p5 it should work here
+i mean since we use a Game class to create games you would need to copy the class into p5 because they work differently
+unless you want to make the game normally in p5 and when you transfer it to here, you can rename the variables from x to this.x
+i would type those in p5
+ok are you going to copy the class?
+yea
+ok cool, you can do it in here too lol or do you use p5 because of that too many requests thing? or maybe the splitscreen
+i was going to use p5 cuz it tells me where the error is
+its like its own gradle build
+but i guess it would work here
+nice
+69 lines ... nice
+are you using p5 because the code is native to the site? like the syntax errors?
+yea if i did a call wrong here i wouldnt be able to tell because most functions set off the " this isnt a thing" alarm
+oh that red dot thing lol this site is interesting but my only complaint is the 
+false syntax errors
+wait maybe not
+i was gonna say a flaw with my game class, how would i do functions? since you make those outside of setup() and draw() -- the only two functions p5 has that i put into the class
+but i remembered i can do this.jump = function(height){//stuff();}
+with objects like everything is a variable and thats why i love javascript its so versatile and flexible
+unlike java where a variable is strictly int, boolean, string, string[], int[], stuff like that
+o the live crashed again
+aaaaand its back
+oh did you lag?
+its my house
+
+i lagged whoops 
+maybe make it an ellipse and make presets as buttons
+make the button an ellipse?
+presets of what?
+no like the dot in painter yea
+oh like a brush tool?
+it can be whatever you want, i was just testing my class to see if it worked
+i might go to bed soon
+i can try to organize for a bit kinda plan stuff out
+organize what?
+oh ok like game ideas? or menu pretty-ups?
+ive been asking people what we should make game-wise but havent gotten that many replies
+something i find amazing is omniscient-memory.glitch.me can be shared with anyone you have talked with so they can see the progress, like it's always running on their server
+yea thats pretty cool
+i typed the link on my phone and im like whaaaat
+wait does touch act like mouseX and Y
+oh yeah, you can draw on your phone with the program
+im loving this lol
+o thats nice
+fun fact: ive always wanted to make games since i was really little lol
+like maybe 7? or 8*
+`-` you saw n0thing
+it has fled
+the main reason i got intocode was cuz i wanted to make them
+im glad its called omniscient memory lol im happy it wasnt a crappy name
+right ive always wanted to make some kind of game anyway i want
+i just realized i didnt have to sign in again when i got home
+are you on your chromebook?
+oh you mustve saved your login
+yea 
+nope
+hmmmmmmmmmmm you sure?
+i dont trust google enough
+and its a school computer
+you dont?
+they legally cant steal your login lol, also you're typing you login into google so regardless you're logging in lol
+yea i guess
+its fiiiine
+famous last words
+*dies* booooooo im a spoopy ghost who makes people flee~
+"sorry im dead"
+oh well then i suppose its ok enough, death is spoopy like my ghosty that makes people flee~
+weeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+gonna make a clear canvas thing
+ok cool
+aaaaaaaaalright imma go to bed
+me too lol
+we must flee~ off to bed
+gn
+goodnight see you tomorrow
+----------------------------------------------------
+2/28/19
+jockey's log~~~~
+----------------------------------------------------
+3/1/19
+manager's log~~~~~~~~
+wrote my pixel clock
+----------------------------------------------------
+3/2/19
+old man across the street's log~~~~~~~~~~~~~~~~
+hmmmmmmmmmmmm im not sure how im going to make charts for the game other than seperate classes for each color, if you have an idea you can text me or PM me in discord
+I also have another question, ive been thinking on how to do this with only one object, would doing
+if (this.color == "green"){
+(funtion to make a note go by)
+}
+work?
+and the slight overlap of the button and background is fixed
+--------------------------------------------------------------
+3/3/19
+flee-ers diary~~
+Which program are you talking about? I was thinking a painter because colors, but then I'm thinking about your saxophone hero because you said note
+both sax hero and p5 hero
+I kinda got it working but the note isnt being displayed
+
+You won't see me at school tomorrow because I have some doctors appointment stuffz
+ok
+what did you do for your notes in your trumpet version?
+-------------------------------------------------------
+3/4/19
+(insert funny name/title)
+i actually haven't worked on that yet. All I have so far is the buttons and things lighting up, and a framework for the notes. and something to play the sound
+
+this is what i have so far
+1 2 3 4 5 for presing down notes and ^ and v for strums
+--------------------------------------------------------
+3/5/19
+plotting the next flee point
+3/6/19
+what shall the next flee point be?
+3/11/19
+drilling holes in ceiling
+4/15/19
+added link to my site https://big-dumpling.glitch.me
+
+
+
+
+
+
+
